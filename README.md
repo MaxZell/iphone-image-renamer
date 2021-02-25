@@ -11,5 +11,7 @@
 After first time compile can use exe ```iphone-image-renamer\target\debug\renamer.exe```
 
 ### Time measurence
-this rust programm:          0.005481874
+
+this rust program:           0.005481874
+
 same program python version: 0.015047550
